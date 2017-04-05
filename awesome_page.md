@@ -5,7 +5,7 @@
       function gps1.1(){
         return gps1.1Complete
       }
-![Jim / Adam](phase-0-gps-1/JimAdam_Gps.png)
+![Jim / Adam](https://github.com/JWKyle/phase-0-gps-1/blob/master/JimAdam_Gps.png?raw=true)
 
 [Google](http://www.google.com)
 
