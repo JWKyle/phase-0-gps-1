@@ -10,5 +10,5 @@
 [Google](http://www.google.com)
 
 phase-0-gps-1/Screen Shot 2017-04-04 at 12.19.14 PM.png
-This line of code is getting in the way of something
+This line of code is getting in the way of something. Why?
 
